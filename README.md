@@ -32,7 +32,7 @@ I'm an ambitious and motivated developer with a strong passion for technology. I
 
 ## 📫 Contact
 - 📧 Email: k.starzyckababik@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/katarzyna-starzycka-babik-917705107]
+- 💼 LinkedIn: (https://www.linkedin.com/in/katarzyna-starzycka-babik-917705107)
 
   
 
