@@ -14,9 +14,10 @@ I'm a junior **Android Developer (Java/Kotlin)** currently looking for my first 
 ---
 
 ## 💡 Additional skills & tools:
-- HTML, CSS, JavaScript, React  
+- HTML, CSS, JavaScript, TypeSctript
+- React Native, Expo 
 - SQL, SQLite  
-- IntelliJ IDEA  
+- IntelliJ IDEA, Visual Studio Code
 
 ---
 
