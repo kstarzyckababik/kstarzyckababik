@@ -2,7 +2,9 @@
 
 I'm a junior **Android Developer (Java/Kotlin)** currently looking for my first job or internship in mobile development. I enjoy building apps, exploring new technologies, and solving problems through code.
 
-🎓 I'm currently pursuing postgraduate studies at **AGH University of Science and Technology** in Kraków, Faculty of Computer Science – program: **Software Development Methods**.
+🎓 I have completed my postgraduate studies in 2025 at **AGH University of Science and Technology in Kraków**,  
+**Faculty of Computer Science**, program: *Software Development Methods*, successfully finishing my studies with the highest grade (**5**).
+
 
 ---
 
