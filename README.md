@@ -1,55 +1,49 @@
-# 👋 Hi there!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&section=header&text=Android%20Developer&fontSize=40&fontColor=ffffff"/>
 
-I'm a junior **Android Developer (Java/Kotlin)** currently looking for my first job or internship in mobile development. I enjoy building apps, exploring new technologies, and solving problems through code.
-
-🎓 I have completed my postgraduate studies in 2025 at **AGH University of Science and Technology in Kraków**,  
-**Faculty of Computer Science**, program: *Software Development Methods*, successfully finishing my studies with the highest grade (**5**).
-
+📱 Android Developer (Kotlin / Java)  
+🎓 AGH University of Science and Technology graduate  
+🚀 Passionate about building modern mobile apps   
 
 ---
 
-## 🔧 Technologies I work with:
-- Kotlin, Java  
-- Android Studio, Jetpack Compose, XML layouts  
-- Git, GitHub  
+## 🚀 Tech Stack
+
+### 📱 Android
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+### 🌐 Other
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
-## 💡 Additional skills & tools:
-- HTML, CSS, JavaScript, TypeSctript
-- React Native, Expo 
-- SQL, SQLite  
-- IntelliJ IDEA, Visual Studio Code
+
+## 📊 GitHub Stats
+
+![Kasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kstarzyckababik&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstarzyckababik&layout=compact&theme=tokyonight)
 
 ---
 
-## 📱 Projects
-🔗 Take a look at my pinned repositories to see the Android apps I've built!
-
----
-
-## 👩 About me
-I'm an ambitious and motivated developer with a strong passion for technology. I value clean code, logical thinking, and learning through practice. I'm open to new challenges and excited to grow as part of a development team.
-
----
 
 ## 📫 Contact
-- 📧 Email: k.starzyckababik@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/katarzyna-starzycka-babik-917705107
 
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katarzyna%20Starzycka%20Babik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/katarzyna-starzycka-babik-917705107)
 
-<!--
-**kstarzyckababik/kstarzyckababik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-k.starzyckababik@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.starzyckababik@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning. Always building.
