@@ -29,15 +29,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-![Kasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kstarzyckababik&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstarzyckababik&layout=compact&theme=tokyonight)
-
----
-
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katarzyna%20Starzycka%20Babik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/katarzyna-starzycka-babik-917705107)
